@@ -1,0 +1,6 @@
+{
+  "name": "Santinho Virtual",
+  "description": "Uma plataforma de homenagem digital interativa com biografia, galeria de fotos antigas com movimento, salmos e terço interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
